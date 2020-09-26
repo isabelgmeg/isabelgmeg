@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there....General Kenobi! 👋
 
-<!--
-**isabelgmeg/isabelgmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About myself
 
-Here are some ideas to get you started:
+Cheese lover and future full stack developer. I have specialized in design but looking forward to new horizons! Also completed a Data Analysis masters degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###Future self
+
+🔭 Learning HTML
+  
+  🌱Future: JavaScript
+  🌱Future: CSS
+
+###🤔 I’m looking for...
+- New projects
+- Help and cheese reccomendations
+
+####💬 Contact me at...
+https://www.linkedin.com/in/isabelgmegino/
+https://www.behance.net/isabelgmegino 
+
+
 -->
