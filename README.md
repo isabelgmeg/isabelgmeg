@@ -1,6 +1,6 @@
 ### Hello there....General Kenobi! 👋
 
-###About myself
+##About myself
 
 Cheese lover and future full stack developer. I have specialized in design but looking forward to new horizons! Also completed a Data Analysis masters degree.
 
